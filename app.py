@@ -564,4 +564,4 @@ Data Science • Machine Learning • Cricket Analytics
 
 unsafe_allow_html=True
 
-)
+)   

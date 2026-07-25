@@ -1751,4 +1751,4 @@ st.caption(
 
 "IPL InsightXI | Venue Intelligence Platform"
 
-)
+)   
