@@ -129,6 +129,92 @@ IPL-InsightXI/
 
 ---
 
+# 📸 Application Preview
+
+## 🏠 Home Dashboard
+
+![Home Dashboard](screenshots/homepage_1.1.png)
+
+---
+
+## 🎯 Match Prediction
+
+### Prediction Interface
+![Prediction Interface](screenshots/match_prediction_2.1.png)
+
+### Team Selection
+![Team Selection](screenshots/match_prediction_2.2.png)
+
+### Prediction Result
+![Prediction Result](screenshots/match_prediction_2.3.png)
+
+---
+
+## 📊 Team Analysis
+
+### Team Overview
+![Team Overview](screenshots/team_analyis_3.1.png)
+
+### Team Performance
+![Team Performance](screenshots/team_analyis_3.2.png)
+
+---
+
+## 🏏 Player Statistics
+
+### Player Dashboard
+![Player Dashboard](screenshots/player_statistics_4.1.png)
+
+### Batting Analysis
+![Batting Analysis](screenshots/player_statistics_4.2.png)
+
+### Top Run Scorers
+![Top Run Scorers](screenshots/player_statistics_4.3.png)
+
+### Strike Rate Analysis
+![Strike Rate Analysis](screenshots/player_statistics_4.4.png)
+
+### Bowling Analysis
+![Bowling Analysis](screenshots/player_statistics_4.5.png)
+
+### Top Wicket Takers
+![Top Wicket Takers](screenshots/player_statistics_4.6.png)
+
+### Player Insights
+![Player Insights](screenshots/player_statistics_4.7.png)
+
+---
+
+## 📍 Venue Analysis
+
+### Venue Dashboard
+![Venue Dashboard](screenshots/venue_analysis_5.1.png)
+
+### Venue Statistics
+![Venue Statistics](screenshots/venue_analysis_5.2.png)
+
+### Venue Comparison
+![Venue Comparison](screenshots/venue_analysis_5.3.png)
+
+### Scoring Pattern
+![Scoring Pattern](screenshots/venue_analysis_5.4.png)
+
+### Win Analysis
+![Win Analysis](screenshots/venue_analysis_5.5.png)
+
+### Venue Insights
+![Venue Insights](screenshots/venue_analysis_5.6.png)
+
+### Additional Analysis
+![Additional Analysis](screenshots/venue_analysis_5.7.png)
+
+### More Insights
+![More Insights](screenshots/venue_analysis_5.8.png)
+
+### Final Dashboard
+![Final Dashboard](screenshots/venue_analysis_5.9.png)
+
+
 ## ⚙️ Installation
 
 1. **Clone the repository**
