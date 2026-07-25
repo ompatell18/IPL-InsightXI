@@ -232,7 +232,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ### 👤 Author
 
 **Your Name**
-[GitHub](https://github.com/<your-username>) • [LinkedIn](https://linkedin.com/in/<your-profile>)
+[GitHub](https://github.com/ompatell18) • [LinkedIn](https://linkedin.com/in/om-patel-6107b0411)
 
 ---
 
